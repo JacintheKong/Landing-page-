@@ -1,0 +1,95 @@
+.main-hero {
+    background-image: url("../img/2.png");
+    background-image: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%
+}
+
+#section1 {
+    background-image: url("../img/1.png");
+    background-repeat: no-repeat;
+    background-size: 28%;
+    background-position-x: 60vw;
+    background-position-y: 7vw;
+    z-index: -6;
+}
+
+#section2 {
+    background-image: url("../img/3.png");
+    background-repeat: no-repeat;
+    background-size: 28%;
+    background-position-x: 10vw;
+    background-position-y: 7vw;
+    z-index: -6;
+}
+
+#section3 {
+    background-image: url("../img/4.png");
+    background-repeat: no-repeat;
+    background-size: 28%;
+    background-position-x: 60vw;
+    background-position-y: 7vw;
+    z-index: -6;
+}
+
+#section4 {
+    background-image: url("../img/5.png");
+    background-repeat: no-repeat;
+    background-size: 28%;
+    background-position-x: 10vw;
+    background-position-y: 7vw;
+    z-index: -6;
+}
+
+#section5 {
+    background-image: url("../img/6.png");
+    background-repeat: no-repeat;
+    background-size: 28%;
+    background-position-x: 60vw;
+    background-position-y: 7vw;
+    z-index: -6;
+}
+
+@media screen and (max-width: 768px) {
+    #section1 {
+        background-image: url("../img/1.png");
+        background-repeat: no-repeat;
+        background-size: 25%;
+        background-position-x: 70vw;
+        background-position-y: 3vw;
+        z-index: -6;
+    }
+    #section2 {
+        background-image: url("../img/3.png");
+        background-repeat: no-repeat;
+        background-size: 25%;
+        background-position-x: 5vw;
+        background-position-y: 3vw;
+        z-index: -6;
+    }
+    #section3 {
+        background-image: url("../img/4.png");
+        background-repeat: no-repeat;
+        background-size: 25%;
+        background-position-x: 70vw;
+        background-position-y: 3vw;
+        z-index: -6;
+    }
+    #section4 {
+        background-image: url("../img/5.png");
+        background-repeat: no-repeat;
+        background-size: 25%;
+        background-position-x: 5vw;
+        background-position-y: 3vw;
+        z-index: -6;
+    }
+    #section5 {
+        background-image: url("../img/6.png");
+        background-repeat: no-repeat;
+        background-size: 25%;
+        background-position-x: 70vw;
+        background-position-y: 3vw;
+        z-index: -6;
+    }
+}
