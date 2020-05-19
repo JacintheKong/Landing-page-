@@ -2,23 +2,22 @@
 
 ## Table of Contents
 
-css
+###css
 - styles.css 
 - image.css   
 - nav.css
-index.html
-js
+###index.html
+###js
 - app.js
-img
+###img
 1.png
 2.png
 3.png
 4.png
 5.png
 6.png
-README.md
+###README.md
 
-* [Instructions](#instructions)
 
 ## Instructions
 
